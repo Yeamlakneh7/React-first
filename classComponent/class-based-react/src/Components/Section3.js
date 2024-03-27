@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import puppy3 from "images/puppy-3.jpg"
-import puppy4 from "images/puppy-4.jpg"
+import puppy3 from "../images/puppy-3.jpg"
+import puppy4 from "../images/puppy-4.jpg"
 
 export default class Section3 extends Component {
   render() {

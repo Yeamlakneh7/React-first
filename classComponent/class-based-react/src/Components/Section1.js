@@ -6,7 +6,7 @@ export default class Section1 extends Component {
     return (
       <div>
         <section class="banner">
-            <img src= {puppies} alt=""/>
+            <img src= {puppies}/>
         </section>
       </div>
     )
